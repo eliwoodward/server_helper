@@ -28,7 +28,7 @@ Dependencies (`requests` and `cryptography`) are auto-installed on first run if 
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/server-helper.git
+git clone https://github.com/eliwoodward/server-helper.git
 cd server-helper
 
 # Run it
